@@ -1,5 +1,5 @@
 # Emotion-Detection
-Generally, people tend to have a 70% rate of recognizing other people's emotions. 
+Generally, people tend to have a 65% rate of recognizing other people's emotions. 
 Emotion detection can show more than a verbal and physical feedback which can help in improving online courses, video games, and help people communicate with others.
 
 # How it Works
